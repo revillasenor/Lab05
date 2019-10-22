@@ -10,7 +10,7 @@ body {
      text-align: center;
 }
  img{
-  width:10px;
+ width:60px;
   padding: 10px;
 
 }
@@ -21,7 +21,7 @@ body {
 	
 }
  th, td{
-     padding: auto;
+     padding: 10px;
 }
  table, th, td{
      height: 45px;
