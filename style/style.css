@@ -1,0 +1,32 @@
+body {
+     background-color: purple;
+	 background-image: url("space.jpg");
+     background-size: cover;
+     text-align: center;
+}
+ h1 {
+	 font-family: Arial, Helvetica, sans-serif;
+     color: white;
+     text-align: center;
+}
+ img{
+     width:100%;
+     height: auto;
+}
+ table{
+     background-color: White;
+     margin-left: auto;
+     margin-right: auto;
+	
+}
+ th, td{
+     padding: 10px;
+}
+ table, th, td{
+     height: 45px;
+     text-align: center;
+     color: black;
+     border-collapse: collapse;
+     border:  1px solid black;
+ }
+	
