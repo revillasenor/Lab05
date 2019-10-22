@@ -1,6 +1,6 @@
 body {
      background-color: purple;
-	 background-image: url("space.jpg");
+	background-image: url("space.jpg");
      background-size: cover;
      text-align: center;
 }
@@ -10,8 +10,9 @@ body {
      text-align: center;
 }
  img{
-     width:30%;
-     height: auto;
+  width:60px;
+  padding: 10px;
+
 }
  table{
      background-color: White;
