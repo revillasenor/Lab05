@@ -24,7 +24,7 @@ body {
      padding: 10px;
 }
  table, th, td{
-
+	height: 100px;
      text-align: center;
      color: black;
      border-collapse: collapse;
