@@ -21,7 +21,7 @@ body {
 	
 }
  th, td{
-     padding: 10px;
+     padding: auto;
 }
  table, th, td{
      height: 45px;
