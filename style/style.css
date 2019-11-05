@@ -1,5 +1,4 @@
 body {
-     background-color: purple;
 	 background-image: url("space.jpg");
      background-size: cover;
      text-align: center;
@@ -15,18 +14,35 @@ body {
 }
  table{
      background-color: White;
-     margin-left: auto;
-     margin-right: auto;
-	
+     margin-left: 100px;
+     margin-right: 100px;
+	 margin-top: auto;
+	 margin-bottom: 100px;
+	 opacity: 50%;
+	 padding: 100px;
+	 border-collapse: collapse;
+     border:  1px solid black;
 }
- th, td{
-     padding: 10px;
-}
- table, th, td{
-     height: 45px;
+ th{
+	  height: 45px;
      text-align: center;
      color: black;
-     border-collapse: collapse;
+     padding: 10px;
+	 border-collapse: collapse;
      border:  1px solid black;
- }
+	 text-decoration:underline ;
+}
+p{
+	color:white;
+}
+div{
+	background-color: purple;
+
+}
+caption{
+	color: white;
 	
+}
+a{
+	color: white;
+}
